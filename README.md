@@ -9,4 +9,4 @@ this is screenshot from my react native uber clone
 
 Screenshot 1             |  Screenshot 2
 :-------------------------:|:-------------------------:
-![Screenshot 1](assets/screenshot-app/Screenshot_1.png?raw=true "Screenshot 1" =50%)  |  ![Screenshot 2](assets/screenshot-app/Screenshot_2.png?raw=true "Screenshot 2" =50%)
+![Screenshot 1](assets/screenshot-app/Screenshot_1.png?raw=true "Screenshot 1")  |  ![Screenshot 2](assets/screenshot-app/Screenshot_2.png?raw=true "Screenshot 2")
