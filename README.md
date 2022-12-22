@@ -7,4 +7,4 @@ Im tryin clone an uber app for my react native exercise, i learn from PapaReact 
 
 this is screenshot from my react native uber clone
 
-![plot](./assets/screenshot-app/Screenshot_1.png?raw=true)
+![Alt text](relative/assets/screenshot-app/Screenshot_1.png?raw=true "Screenshot 1")
