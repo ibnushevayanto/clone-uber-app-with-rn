@@ -5,7 +5,7 @@ Im tryin clone an uber app for my react native exercise, i learn from PapaReact 
 * Styling im using twrnc, twrnc is tailwind class which can use in react native 
 * For calculate the price and find route i use Google Maps API
 
-this is screenshot from my react native uber clone
+the screenshot from my react native uber clone
 
 Screenshot 1             |  Screenshot 2
 :-------------------------:|:-------------------------:
