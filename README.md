@@ -1,4 +1,4 @@
-Im tryin clone an uber app for my react native exercise, i learn from PapaReact aka Sonny Sangha Youtube Channel, thanks to him. 
+Im tryin clone uber app for my react native exercise, i learn from PapaReact aka Sonny Sangha Youtube Channel, thanks to him. 
 * Routing screen, im using React Navigation. 
 * Data managering, im using redux.
 * Maps im using react-native-navigation
